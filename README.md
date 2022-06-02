@@ -1,12 +1,12 @@
 # SIT215-Project
 
-# For using Open AI Gym
+For using Open AI Gym:
 !pip install gym 
 
-# For visualising Open AI Gym
+For visualising Open AI Gym:
 !pip install pygame   
 
-# Import relevant libraries 
+Import relevant libraries: 
 import gym 
 from random import random, uniform 
 import math  
